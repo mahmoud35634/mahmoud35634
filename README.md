@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mahmoud Aboukelila and I'm a AI developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Mahmoud Aboukelila and I'm a Data analyst from Egypt</h2>
 
 ###
 
