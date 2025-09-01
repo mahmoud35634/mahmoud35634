@@ -35,9 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://media0.giphy.com/media/13HgwGsXF0aiGY/200.webp?cid=790b76118uy3s7vlcihqjg777lkt1dlt4h47qsdkxbqmd9jz&ep=v1_gifs_search&rid=200.webp&ct=g" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge](https://www.youtube.com/channel/UCLH-5KRpW3jo4Q4UAhXaR7g)" height="35" alt="youtube logo"  />
-  </a>
+
   <a href="mahmoudaboukelila@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
